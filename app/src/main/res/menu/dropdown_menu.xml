@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Name                 Kristiyan Nenov
+    Student ID           S1512113
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/item1"
+        android:title="Sort By Location"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item2"
+        android:title="Sort By Magnitude"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item3"
+        android:title="Sort By Deepest"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item4"
+        android:title="Sort By Shallowest"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/item5"
+        android:title="Most Northerly" />
+    <item
+        android:id="@+id/item6"
+        android:title="Most Southerly" />
+    <item
+        android:id="@+id/item7"
+        android:title="Most Westerly" />
+    <item
+        android:id="@+id/item8"
+        android:title="Most Easterly" />
+
+</menu>
